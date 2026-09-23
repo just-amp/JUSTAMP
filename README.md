@@ -108,6 +108,10 @@ Grab the APK from the [**Releases**](../../releases) page:
 
 Source code is currently private; this repository is for releases and feedback. Bug reports and feature requests are welcome in [Issues](../../issues).
 
+## Community
+
+Join us on Reddit: [r/JUSTAMP](https://www.reddit.com/r/JUSTAMP/) — skins, setups, feedback, and nostalgia.
+
 ## Disclaimer
 
 Winamp is a trademark of its respective owner. JUSTAMP is an independent tribute project, not affiliated with or endorsed by Winamp.

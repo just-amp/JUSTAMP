@@ -112,6 +112,10 @@ JUSTAMP 不做视频、不做社交、不做信息流、不做直播。打开就
 
 源代码目前保持私有；本仓库仅用于发布与反馈。欢迎在 [Issues](../../issues) 提交 Bug 与功能建议。
 
+## 社区
+
+Reddit 官方社区：[r/JUSTAMP](https://www.reddit.com/r/JUSTAMP/) —— 皮肤、晒机架、反馈与怀旧。
+
 ## 免责声明
 
 Winamp 是其各自所有者的商标。JUSTAMP 是独立致敬作品（clean-room 原创实现），与 Winamp 无任何隶属关系，亦未获其认可或背书。
