@@ -1,0 +1,12 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+
+# Note: APK files are attached to GitHub Releases via `gh release`,
+# they are not tracked in this repository's git history.
