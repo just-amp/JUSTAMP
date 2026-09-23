@@ -96,6 +96,8 @@ Grab the APK from the [**Releases**](../../releases) page:
 - **JUSTAMP Classic** — the pure retro player. Free forever, no strings.
 - **JUSTAMP Full** — everything above plus the Hi-Fi Studio with a 30-day trial.
 
+🇨🇳 国内用户下载镜像（免登录直链）：[Gitee Releases](https://gitee.com/yuxiaotao1982/JUSTAMP/releases)
+
 **Requirements:** Android 7.0 (API 24) or higher. No account, no sign-in; audio permission only used to play your local music. See [PRIVACY.md](PRIVACY.md).
 
 ## Gallery

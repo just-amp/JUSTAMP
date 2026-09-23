@@ -95,7 +95,12 @@ JUSTAMP 不做视频、不做社交、不做信息流、不做直播。打开就
 
 ## 下载
 
-前往 [**Releases**](../../releases) 页面下载 APK。
+前往 [**Releases**](../../releases) 页面下载 APK：
+
+- **JUSTAMP Classic（经典版）** —— 纯粹复古播放器，永久免费
+- **JUSTAMP Full（完整版）** —— 经典版全部功能 + Hi-Fi Studio 30 天试用
+
+🐢 GitHub 访问困难？国内镜像（免登录直链）：[Gitee Releases](https://gitee.com/yuxiaotao1982/JUSTAMP/releases)
 
 **系统要求**：Android 7.0（API 24）及以上。无需注册登录；音频权限仅用于播放本机音乐。详见 [PRIVACY.md](PRIVACY.md)。
 
