@@ -47,6 +47,10 @@ Pick one, download it, wear it. The active skin gets marked.
 
 Nothing catches your eye? The built-in **recolor workshop** offers 5 color themes — Ice Blue, Dusk Violet, Rust Red, Sunset, Emerald — plus a 0°–359° custom hue slider that recolors an entire skin while preserving brightness relationships. Got .wsz / .zip skin packs saved up? Install them directly. Local skins can be managed and uninstalled; deleting them returns you to the factory base-2.91 look — JUSTAMP's default face.
 
+## Lyrics — The Panel Winamp Never Had
+
+The original Winamp never gave you lyrics. JUSTAMP does: a dedicated lyrics rack synced to the millisecond, with a fine-tune offset slider so the words land exactly on the beat. Embedded tags, sidecar .lrc files, and online sources are all supported.
+
 ## Library & Playlists: For Offline Listeners
 
 - **Local library scan** — one tap to index on-device audio (MediaStore), or import by folder
