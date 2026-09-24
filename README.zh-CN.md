@@ -18,12 +18,6 @@
 
 JUSTAMP 不打算追上去。它只想把那个年代原样搬回来，放到你手里这块屏幕上。
 
-## ▶ 真机演示
-
-[![JUSTAMP 听音室与 Hi-Fi Studio（视频）](https://img.youtube.com/vi/9W6s4OhqnaA/hqdefault.jpg)](https://youtube.com/shorts/9W6s4OhqnaA)
-
-*听音室场景与 9 大 Hi-Fi 机架模块，真机实拍。*
-
 ## 它是一场复刻，不只是换皮
 
 JUSTAMP 以 Winamp 2.91 为蓝本重制——干净的原创实现（clean-room），100% 兼容 Winamp 经典皮肤格式。主面板、图形均衡器、频谱分析仪、播放列表，四大机架逐像素还原当年那套点阵性格：滑杆的阻尼感、按钮按下时的高光、频谱柱由绿到红的渐变。不是贴一张老图，是让每个控件真的按当年的规矩动起来。

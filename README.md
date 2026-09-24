@@ -18,12 +18,6 @@ In 1997, a little player called Winamp threw a green waveform into the dark of a
 
 JUSTAMP isn't chasing that. It brings that era back, exactly as it was, onto the screen in your hand.
 
-## ▶ See It in Action
-
-[![JUSTAMP — Listening Room & Hi-Fi Studio (video)](https://img.youtube.com/vi/9W6s4OhqnaA/hqdefault.jpg)](https://youtube.com/shorts/9W6s4OhqnaA)
-
-*Listening Room & the 9-module Hi-Fi Studio, recorded on a real device.*
-
 ## A Re-Creation, Not a Reskin
 
 JUSTAMP is rebuilt from the ground up after Winamp 2.91 — an original clean-room implementation, fully compatible with the Winamp classic skin format. The main panel, graphic equalizer, spectrum analyzer, and playlist editor are restored pixel by pixel, down to the damping of the sliders, the highlight when a button is pressed, and the green-to-red gradient of the spectrum columns. Every control moves the way it did back then.
